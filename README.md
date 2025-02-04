@@ -61,7 +61,7 @@ d: 1
 
 **Input:**
 ```python
-sentence = "Python is awesome"
+sentence = "Python is awesome."
 ```
 
 **Expected Output:**
